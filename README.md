@@ -1,2 +1,2 @@
 # GameOnlinetMultiPlayer
-Game Online tMulti Player
+Game Online Multi Player
